@@ -11,6 +11,7 @@ Before running the code, make sure you have the following dependencies installed
 
 ## Overview of the Code
 1-Load the Titanic dataset and display basic information about it.
+
 2-Data Cleaning:
 - Check for missing values.
 - Remove the 'Cabin' column due to a high number of missing values.
