@@ -26,10 +26,15 @@ Before running the code, make sure you have the following dependencies installed
 - Find relations between 'Sex' and 'Survived', 'Age' and 'Survived', and 'Pclass' and 'Survived'.
 
 4-Data Preprocessing: Label encode textual columns 'Sex' and 'Embarked' into numeric values.
+
 5-Split the dataset into input features (X) and labels (Y). Remove unnecessary columns.
+
 6-Split the data into training and testing sets using a 60/40 split.
+
 7-Create a logistic regression model, train it on the training data, and predict on both the training and test data.
+
 8-Evaluate the model's accuracy on the training and test data.
+
 9-Create a predictive system to predict survival for a new set of input data.
 
 ## Model Accuracy
